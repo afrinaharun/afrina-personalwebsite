@@ -1,0 +1,64 @@
+}
+
+h1 {
+  font-family: Arial;
+
+}
+
+p  {
+  background-color: whitesmoke;
+  color: solid black;
+  font-family: courier;
+  font-size: 130%;
+}
+
+p {
+  border: 2px solid black;
+  padding: 30px;
+}
+
+nav a:hover {
+    background-color: thistle;
+    color: black;
+}
+
+.container {
+    padding: 20px;
+}
+
+.card {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+}
+
+footer {
+    background-color: purple;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
+
+.table-style {
+    width: 100px;
+    border-collapse;
+}
+
+.table-style th,
+.table-style td [
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+]
+
+.table-style th}
+    background-color: thistle;
+}
+
+</style>
+</head>
+<body>
+</body>
+</html>
